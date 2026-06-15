@@ -47,7 +47,6 @@ On the platform side, I've completed 10 TryHackMe rooms (Top 40% globally, 5 bad
 
 ## 🛠️ Tech Stack
 
-🛠️ Tech Stack
 
 <div align="center">
 
