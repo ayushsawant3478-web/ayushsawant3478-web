@@ -24,9 +24,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushsawant3478-web&color=6C63FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ayushsawant3478-web?style=flat-square&color=6C63FF&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/ayushsawant3478-web?style=flat-square&color=6C63FF&label=Stars)
 
 </div>
 
