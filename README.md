@@ -47,30 +47,53 @@ On the platform side, I've completed 10 TryHackMe rooms (Top 40% globally, 5 bad
 
 ## 🛠️ Tech Stack
 
+🛠️ Tech Stack
+
 <div align="center">
+🔐 Security Tools & Platforms
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,bash,html,css&theme=dark)](https://skillicons.dev)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark)](https://skillicons.dev)
+🛡️ Identity, Auth & Cryptography
 
-### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=express,mysql,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
+Show Image
+Show Image
+Show Image
+Show Image
 
-### Cloud, DevOps & Tooling
-[![Cloud](https://skillicons.dev/icons?i=gcp,git,github,linux,vscode,docker&theme=dark)](https://skillicons.dev)
+📡 SIEM, Monitoring & Incident Response
 
-### Security Tooling
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Security%20Scanning-6C63FF?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-IAM-4285F4?style=flat-square&logo=google&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-Incident%20Response-7B2FBE?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Detection-5B21B6?style=flat-square)
+Show Image
+Show Image
+Show Image
+Show Image
+
+🖥️ Systems & Networking
+
+Show Image
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+☁️ Cloud & DevOps
+
+Show Image
+
+Show Image
+
+🗄️ Backend, Databases & Languages
+
+Show Image
 
 </div>
+
 
 ---
 
