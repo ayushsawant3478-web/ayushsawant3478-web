@@ -148,6 +148,26 @@ Formal semester-long coursework in Linux administration, covering the core opera
 
 </details>
 
+<details>
+<summary><b>🔐 PassKey — Secure Password Manager (Collaborative)</b></summary>
+<br/>
+
+A full-stack password management application built as a collaborative project with two teammates. My ownership: all security-layer implementation, including AES encryption for credential storage and the complete Google OAuth authentication flow.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT |
+| **My Contribution** | AES encryption (CryptoJS), Google OAuth 2.0 integration, session management, secure environment variable handling |
+| **Auth** | Google OAuth login, JWT-based session management, secure authentication flow |
+| **Encryption** | AES-based encryption of stored credentials before database write |
+| **Live Demo** | [passkey-ftx3.onrender.com](https://passkey-ftx3.onrender.com) |
+| **Repository** | [github.com/pradnyeshbhalekar/passkey](https://github.com/pradnyeshbhalekar/passkey) *(collaborative — security layer by Ayush Sawant)* |
+| **Collaborators** | Ayush Sawant · Pradnyesh Bhalekar · Daksh Goyal |
+
+**What this demonstrates:** Practical implementation of encryption-at-rest for sensitive credentials, OAuth 2.0 integration as an alternative to password-only auth, and secure API design — directly applicable to application security and IAM roles.
+
+</details>
+
 ---
 
 ## 💼 Experience
@@ -156,7 +176,7 @@ Formal semester-long coursework in Linux administration, covering the core opera
 **Target: Cybersecurity Analyst / SOC Analyst / IT Audit Analyst**
 `2026 — Present` · Mumbai, Pune, Bengaluru, Remote
 
-While no corporate experience yet, the depth of independent project work, lab-based training, and certification progress reflects the practical profile of a job-ready security professional. Applications active at Deloitte, Northern Trust, NTT DATA, Nuvama, Medpace, Masimo, and 20+ additional firms.
+While no corporate experience yet, the depth of independent project work, lab-based training, and certification progress reflects the practical profile of a job-ready security professional.
 
 **Scope of independent work:**
 - Designed and deployed a full-stack financial platform with production security controls (Trackify)
@@ -184,11 +204,11 @@ While no corporate experience yet, the depth of independent project work, lab-ba
 | Recognition | Details |
 |-------------|---------|
 | 🎓 Academic Excellence | CGPA 9.10/10 — B.Sc. IT, Somaiya Vidyavihar University (2022–2026) |
-| 🌐 TryHackMe Top 40% | Global ranking — 10 rooms completed, 5 badges earned |
+| 🌐 TryHackMe Top 40% | Global ranking — 14 rooms completed, 5 badges earned |
 | ☁️ Google Cloud Silver League | 6 labs completed: Cloud SQL, App Engine, Cloud Run, IaaS, Storage, Serverless |
 | 🔒 Security+ Candidate | CompTIA SY0-701 in progress — Jason Dion course (Udemy) |
 | 🛡️ Cybersecurity Minor | Formal academic credential alongside B.Sc. IT major |
-| 📊 BI Dashboard Builder | 3 production-grade dashboards across FNP Sales and E-Commerce domains |
+| 📊 Excel Dashboard Builder | 2 production-grade dashboards across FNP Sales and E-Commerce domains |
 
 </div>
 
@@ -233,6 +253,7 @@ While no corporate experience yet, the depth of independent project work, lab-ba
 </div>
 
 ---
+
 
 ## 📈 Contribution Activity
 
