@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Ayush%20Sawant&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20IT%20Audit%20%7C%20Threat%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=B.Sc.+IT+%7C+Minor+in+Cybersecurity+%E2%80%94+CGPA+9.10%2F10;Security+Analyst+%7C+SOC+%7C+IT+Audit+%7C+Compliance;CompTIA+Security%2B+Candidate+%7C+Google+Cybersecurity;TryHackMe+Top+40%25+%7C+5+Badges+%7C+10+Rooms;JWT+%7C+OAuth+2.0+%7C+RBAC+%7C+Behavioral+Anomaly+Detection)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=B.Sc.+IT+%7C+Minor+in+Cybersecurity+%E2%80%94+CGPA+9.10%2F10;Security+Analyst+%7C+SOC+%7C+IT+Audit+%7C+Compliance;CompTIA+Security%2B+Candidate+%7C+Google+Cybersecurity;TryHackMe+Top+40%25+%7C+5+Badges+%7C+14+Rooms;JWT+%7C+OAuth+2.0+%7C+RBAC+%7C+Behavioral+Anomaly+Detection)](https://git.io/typing-svg)
 
 <br/>
 
