@@ -9,7 +9,7 @@
 [![B.Sc. IT](https://img.shields.io/badge/B.Sc.%20Information%20Technology-Somaiya%20Vidyavihar-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://somaiya.edu)
 [![Minor](https://img.shields.io/badge/Minor-Cybersecurity-4B0082?style=for-the-badge&logo=shield&logoColor=white)](https://somaiya.edu)
 [![CGPA](https://img.shields.io/badge/CGPA-9.10%2F10-7B2FBE?style=for-the-badge&logo=star&logoColor=white)](https://somaiya.edu)
-[![Batch](https://img.shields.io/badge/Batch-2022--2026-5B21B6?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/ayushsawant3478-web)
+[![Batch](https://img.shields.io/badge/Batch-2023--2026-5B21B6?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/ayushsawant3478-web)
 
 <br/>
 
