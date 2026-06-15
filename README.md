@@ -282,7 +282,6 @@ While no corporate experience yet, the depth of independent project work, lab-ba
 
 ## 🎯 Current Focus
 
-```yaml
 Learning:
   - CompTIA Security+ SY0-701 (Jason Dion / Udemy — active)
   - Advanced TryHackMe rooms: SOC Level 1 path
@@ -304,7 +303,6 @@ Open To:
   - IT Audit & Compliance Analyst
   - Information Security roles at Big 4, BFSI, Healthtech
   - Remote / hybrid roles across India
-```
 
 ---
 
