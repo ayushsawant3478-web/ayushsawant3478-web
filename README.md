@@ -50,47 +50,42 @@ On the platform side, I've completed 10 TryHackMe rooms (Top 40% globally, 5 bad
 🛠️ Tech Stack
 
 <div align="center">
-🔐 Security Tools & Platforms
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 🔐 Security Tools & Platforms
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-6C63FF?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-🛡️ Identity, Auth & Cryptography
+### 🛡️ Identity, Auth & Cryptography
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![AES Encryption](https://img.shields.io/badge/AES%20Encryption-6C63FF?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
-Show Image
-Show Image
-Show Image
-Show Image
+### 📡 SIEM, Monitoring & Incident Response
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Google Chronicle](https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-📡 SIEM, Monitoring & Incident Response
+### 🖥️ Systems & Networking
+[![Systems](https://skillicons.dev/icons?i=linux,bash,python&theme=dark)](https://skillicons.dev)
 
-Show Image
-Show Image
-Show Image
-Show Image
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-🖥️ Systems & Networking
+### ☁️ Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=gcp,git,github,docker&theme=dark)](https://skillicons.dev)
 
-Show Image
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-Show Image
-Show Image
-Show Image
-Show Image
-
-☁️ Cloud & DevOps
-
-Show Image
-
-Show Image
-
-🗄️ Backend, Databases & Languages
-
-Show Image
+### 🗄️ Backend, Databases & Languages
+[![Stack](https://skillicons.dev/icons?i=python,js,ts,nodejs,express,mongodb,postgres,react&theme=dark)](https://skillicons.dev)
 
 </div>
 
