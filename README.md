@@ -224,39 +224,11 @@ While no corporate experience yet, the depth of independent project work, lab-ba
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Security Practice Profile
 
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2040%25%20Globally%20%7C%205%20Badges%20%7C%2010%20Rooms-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/fl1thyy)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsawant3478-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=7B2FBE&text_color=c9d1d9&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsawant3478-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&layout=compact" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushsawant3478-web&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=7B2FBE&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsawant3478-web&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
 
 </div>
 
@@ -272,17 +244,6 @@ While no corporate experience yet, the depth of independent project work, lab-ba
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayushsawant3478-web/ayushsawant3478-web/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-
-</div>
-
-> **Setup note:** To activate the snake animation, create a GitHub Actions workflow in your profile repository that generates the SVG. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
-
----
 
 ## 🎯 Current Focus
 
